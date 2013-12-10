@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Erdi on Github
-tagline: Supporting tagline
+title: Welcome
+tagline: Develop your ideas into code!
 ---
 {% include JB/setup %}
 
